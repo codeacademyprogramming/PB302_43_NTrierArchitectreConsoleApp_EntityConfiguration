@@ -1,0 +1,1 @@
+# PB302_43_NTrierArchitectreConsoleApp_EntityConfiguration
