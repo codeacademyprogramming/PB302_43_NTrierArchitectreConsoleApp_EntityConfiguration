@@ -1,0 +1,17 @@
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Data.dll
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Core.dll
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\bin\Debug\net6.0\Core.pdb
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.dll
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\43. 28-02-2024\CourseApp\Data\obj\Debug\net6.0\ref\Data.dll
